@@ -16,6 +16,7 @@ Je suis professeur de mathématiques :triangular_ruler: mais j'adore programmer.
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" >
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img = src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
 <h4> I'm currently learning  / j'apprends actuellement </h4>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
