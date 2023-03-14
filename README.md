@@ -18,6 +18,7 @@ Je suis professeur de mathématiques :triangular_ruler: mais j'adore programmer.
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img = src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerk78&show_icons=true&theme=dracula)
