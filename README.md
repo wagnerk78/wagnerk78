@@ -4,7 +4,7 @@
 
 <strong> Obrigado por visitar meu GitHub. É um prazer ter você aqui!</strong>
 
-<strong> Eu sou professor de matemática por formação :triangular_ruler:. Gosto de programar por emoção. Programação 💻 é uma área na qual posso desenvolver minhas HARD SKILLS 🐘 e juntamente com  minhas SOFT SKILLS posso ajudar as empresas a crescer. Tudo aquilo me faz pensar, me motiva! </strong>
+<strong> Eu sou professor de matemática por formação :triangular_ruler:. Gosto de programar por emoção. Programação 💻 é uma área na qual posso desenvolver minhas HARD SKILLS 🐘 e juntamente com  minhas SOFT SKILLS posso ajudar empresas a crescerem. Tudo aquilo me faz pensar, me motiva! </strong>
 
 
 <h4> Realizei vários projetos com: </h4>
