@@ -1,15 +1,9 @@
-<strong> Hi there!</strong> Salut à tous!
+<strong> Obrigado por visitar meu GitHub. É um prazer ter você aqui!</strong>
 
-<strong> Thanks for visiting my GitHub profile, it's great to meet you here! 😊</strong>
+<strong> Eu sou professor de matemática :triangular_ruler: but Eu gosto de programar. Programação é uma área na qual posso desenvolver minhas HARD SKILLS e minhas SOFT SKILLS. Tudo aquilo me faz pensar, me motiva! </strong>
 
-Merci d'avoir visité mon profil GitHub, c'est un plaisir de vous rencontrer ici ! 😊
 
-<strong> I'm a math teacher :triangular_ruler: but I love to program. Programming is a way I use my logical skills to develop programs and websites.
-Things that make me think motivate me. </strong>
-
-Je suis professeur de mathématiques :triangular_ruler: mais j'adore programmer. La programmation est une façon dont j'utilise mes compétences logiques pour développer des programmes et des sites Web. Les choses qui me font réfléchir me motivent.
-
-<h4> I'm currently working on  / Je travaille actuellement sur </h4>
+<h4> Realizei vários projetos com: </h4>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
