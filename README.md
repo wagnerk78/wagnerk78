@@ -1,7 +1,10 @@
-<<a href="https://www.flaticon.com/br/icones-gratis/estrela" title="estrela ícones">Estrela ícones criados por Smashicons - Flaticon</a>
+⭐
+
+
+
 <strong> Obrigado por visitar meu GitHub. É um prazer ter você aqui!</strong>
 
-<strong> Eu sou professor de matemática :triangular_ruler: Eu gosto de programar. Programação é uma área na qual posso desenvolver minhas HARD SKILLS e minhas SOFT SKILLS. Tudo aquilo me faz pensar, me motiva! </strong>
+<strong> Eu sou professor de matemática por formação :triangular_ruler:. Gosto de programar por emoção. Programação 💻 é uma área na qual posso desenvolver minhas HARD SKILLS 🐘 e juntamente com  minhas SOFT SKILLS posso ajudar as empresas a crescer. Tudo aquilo me faz pensar, me motiva! </strong>
 
 
 <h4> Realizei vários projetos com: </h4>
