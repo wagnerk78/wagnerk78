@@ -22,6 +22,3 @@
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerk78&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerk78)](https://github.com/wagnerk78/github-readme-stats)
