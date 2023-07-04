@@ -22,7 +22,7 @@
 </div>
 <br>
 
-<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerk78&layout=donut)](https://github.com/wagnerk78/github-readme-stats)
 
-<hr>
+
