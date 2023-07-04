@@ -24,5 +24,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerk78&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerk78&layout=donut-vertical)](https://github.com/wagnerk78/github-readme-stats)
 
