@@ -4,7 +4,7 @@
 
 <strong> Obrigado por visitar meu GitHub. É um prazer ter você aqui!</strong>
 
-<strong> Estou pronto para fazer parte de uma equipe dinâmica e inovadora para continuar meu crescimento profissional para que possa desenvolver meus conhecimentos aprendidos de forma exemplar.  Sou proativo, criativo, animado, comunicativo, decidido e responsável. </strong>
+<strong> Estou pronto para fazer parte de uma equipe dinâmica e inovadora para continuar meu crescimento profissional para que eu possa desenvolver meus conhecimentos aprendidos de forma exemplar.  Sou proativo, criativo, animado, comunicativo, decidido e responsável. </strong>
 
 
 <h4> Realizei vários projetos com: </h4>
